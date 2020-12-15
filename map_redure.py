@@ -38,3 +38,4 @@ class MapRedure:
 
 if __name__ == "__main__":
     MapRedure.run()
+
